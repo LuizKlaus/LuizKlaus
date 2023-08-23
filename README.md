@@ -8,4 +8,4 @@
 LuizKlaus/LuizKlaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![texto-alternativo](link-da-imagem)
+![texto-alternativo](![image](https://github.com/LuizKlaus/LuizKlaus/assets/141050303/5ab23340-fdce-4d13-bd91-063db05ec38a))
